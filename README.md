@@ -1,5 +1,5 @@
 # Break-Bricks-Game
-in this, i used,Html5 Canavs element with the JAVASCRIP API in order to do this.
+in this, i used,Html5 Canavs element with the JAVASCRIPT API in order to do this.
 -----------------------------------------------------------------------------------
  About Game --> it is just a simple JavaScript UI Game we have to just move paddle left right so that ball can not touch at bottom If you miss the ball,your score and blocks will reset. 
 Skills Used -- javaScript Api's And html & Css
